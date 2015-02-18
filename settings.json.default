@@ -1,0 +1,9 @@
+{
+    "trello" : {
+        "app_key": "MY_APP_KEY",
+        "token": "TRELLO_TOKEN",
+        "username": "USERNAME_OR_EMAIL",
+        "board_id": "BOARD_ID",
+        "list_id": "LIST_ID"
+    }
+}
